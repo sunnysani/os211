@@ -11,3 +11,5 @@ ZCZC L21 150 VirtualBox: Install Debian/Linux
 ZCZC L08 20 Trying Basic Command like vi, nano, cat, etc
 ZCZC L22 20 Learn very basic of Ubuntu/Linux
 ZCZC L23 60 Discuss with friend via Discord
+ZCZC L00 15 General Log
+ZCZC L11 45 Assignment 1
