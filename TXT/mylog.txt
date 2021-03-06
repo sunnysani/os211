@@ -4,3 +4,10 @@
 ZCZC W00 60 L06 Reading References/Books/Documents
 ZCZC W00 100 L02 ZOOM related
 ZCZC W00 20 L03 GitHub related
+ZCZC W01 100 L02 ZOOM related
+ZCZC L01 10 L01 SCELE RELATED
+ZCZC L06 45 L06 Reading References
+ZCZC L21 150 VirtualBox: Install Debian/Linux
+ZCZC L08 20 Trying Basic Command like vi, nano, cat, etc
+ZCZC L22 20 Learn very basic of Ubuntu/Linux
+ZCZC L23 60 Discuss with friend via Discord
