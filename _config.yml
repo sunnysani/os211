@@ -1,22 +1,14 @@
-title:       "Operating Systems 2021-1 (OS211)"
-version:     "0031a---07-Mar-2021"
-copyright:   "2021-2021"
-description: >- 
-  This Is How Me Do It!
-  This Is How Me Do It!
+title:       "sunnysani OS"
 # baseurl: "" # e.g. /blog
 # url: ""     # e.g. http://example.com
-google_analytics: "UA-89852122-6"
-author:           "Cicak Bin Kadal"
-address:          "Pamulang"
+author:           "Naufal Sani"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://cbkadal.github.io/os211/"
-urlcontact:       "TBS"
-urlgithub:        "https://github.com/cbkadal/os211/"
-urlghpage:        "https://cbkadal.github.io/os211/"
+urlweb:           "https://sunnysani.github.io/os211/"
+urlgithub:        "https://github.com/sunnysani/os211/"
+urlghpage:        "https://sunnysani.github.io/os211/"
 keywords:         "jekyll, testing"
 github:           [metadata]
 

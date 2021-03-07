@@ -5,14 +5,9 @@
  */
 
 
-.plainclass {
-  color:            white;
+.base {
+  color:            black;
   background-color: #001030;
-}
-
-.plainclass1 {
-  color:            white;
-  background-color: black;
 }
 
 .container {
@@ -47,60 +42,6 @@
   text-align:       left;
 }
 
-.left {
-  width:            130px;
-}
-
-.right1 {
-  height:           80px;
-  width:            calc(100% - 200px);
-  padding-top:      5px;
-  padding-bottom:   5px;
-  padding-left:     30px;
-  font-size:        1.5em;
-  font-weight:      bold;
-}
-
-.right2 {
-  height:           50px;
-  width:            calc(100% - 200px);
-  padding-top:      5px;
-  padding-bottom:   5px;
-  padding-left:     30px;
-  font-size:        1.1em;
-  font-weight:      bold;
-}
-}
-
-.youtube {
-  float:            left;
-  display:          inline-block;
-  height:           150px;
-  width:            100%;
-  padding-top:      10px;
-  padding-bottom:   10px;
-  padding-left:     10px;
-  padding-right:    10px;
-}
-
-.yvideo {
-  width:            25%;
-  height:           100%;
-  padding-top:      0px;
-  padding-bottom:   0px;
-  padding-left:     0px;
-  padding-right:    0px;
-}
-
-.yinfo {
-  width:            calc(75%  - 30px);
-  height:           calc(100% - 20px);
-  padding-top:      10px;
-  padding-bottom:   10px;
-  padding-left:     10px;
-  padding-right:    10px;
-}
-
 .row:after {
   content: "";
   display: table;
@@ -108,7 +49,7 @@
 }
 
 .navbar {
-  background-color: #222222;
+  background-color: #CCCCCC;
   color:            #FFFFFF;
   font-size:        0.7em;
 }
@@ -125,8 +66,7 @@
 }
 
 .navbar ul li a:hover {
-  background:       blue;
-  color:            #CCCCCC;
+  background:       F0F0F0;
   font-size:        1em;
   font-weight:      bold;
 }
@@ -138,24 +78,6 @@ pre {
   font-size:     0.7em; 
   border-radius: 2px;
 }
-
-/*
-  ZCZC
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 10px; 
-  color: #b5e853;
-  background: rgba(0, 0, 0, 0.9);
-  border-radius: 2px;
-  word-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
-  max-width: 65%;
-
- */
-
-/*
- ************************************************************
- */
 
 @media screen and (max-width:768px) {
   ul {
