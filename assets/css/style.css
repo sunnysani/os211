@@ -7,7 +7,6 @@
 
 .base {
   color:            black;
-  background-color: #001030;
 }
 
 .container {
@@ -54,6 +53,14 @@
   font-size:        0.7em;
 }
 
+.listitem {
+  color: black;
+  padding:        1px;
+  padding-top:    10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+
 .navbar ul li {
   display:        inline-block;
   padding:        1px;
@@ -61,12 +68,7 @@
   padding-bottom: 10px;
 }
 
-.navbar ul li a {
-  text-decoration: none;
-}
-
-.navbar ul li a:hover {
-  background:       F0F0F0;
+.listitem ul li a:hover {
   font-size:        1em;
   font-weight:      bold;
 }
