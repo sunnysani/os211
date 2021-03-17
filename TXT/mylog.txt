@@ -5,33 +5,6 @@ ZCZC W00 60 L06 Reading References/Books/Documents
 ZCZC W00 100 L02 ZOOM related
 ZCZC W00 20 L03 GitHub related
 ZCZC W01 100 L02 ZOOM related
-ZCZC L01 10 L01 SCELE RELATED
-ZCZC L06 45 L06 Reading References
-ZCZC L21 150 VirtualBox: Install Debian/Linux
-ZCZC L08 20 Trying Basic Command like vi, nano, cat, etc
-ZCZC L22 20 Learn very basic of Ubuntu/Linux
-ZCZC L23 60 Discuss with friend via Discord
-ZCZC L00 15 General Log
-ZCZC L11 45 Assignment 1
-ZCZC L04 60 GitHub Pages: Modify pages
-ZCZC L08 20 Trying something: Setting up git page
-ZCZC L03 5 GitHub related
-ZCZC L21 70 VirtualBox: Reinstall and messing around.
-ZCZC L12 70 Assignment #2
-ZCZC L25 40 C-language: install C compiler (MinGW) and learn basics
-ZCZC L23 15 Line: Discussion and asking friends.
-ZCZC L22 60 YouTube: study, etc.
-ZCZC L06 40 Reading Slides and Reading About System Security
-ZCZC L00 5 General Log
-ZCZC L26 60 Movie: relax, etc.
-
-# Log Format
-# ZCZC WEEK# MINUTES LogCode Description
-# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 60 L06 Reading References/Books/Documents
-ZCZC W00 100 L02 ZOOM related
-ZCZC W00 20 L03 GitHub related
-ZCZC W01 100 L02 ZOOM related
 ZCZC W01 10 L01 SCELE RELATED
 ZCZC W01 45 L06 Reading References
 ZCZC W01 150 L21 VirtualBox: Install Debian/Linux
