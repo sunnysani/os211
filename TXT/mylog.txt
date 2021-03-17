@@ -25,3 +25,31 @@ ZCZC L06 40 Reading Slides and Reading About System Security
 ZCZC L00 5 General Log
 ZCZC L26 60 Movie: relax, etc.
 
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 60 L06 Reading References/Books/Documents
+ZCZC W00 100 L02 ZOOM related
+ZCZC W00 20 L03 GitHub related
+ZCZC W01 100 L02 ZOOM related
+ZCZC W01 10 L01 SCELE RELATED
+ZCZC W01 45 L06 Reading References
+ZCZC W01 150 L21 VirtualBox: Install Debian/Linux
+ZCZC W01 20 L08 Trying Basic Command like vi, nano, cat, etc
+ZCZC W01 20 L22 Learn very basic of Ubuntu/Linux
+ZCZC W01 60 L23 Discuss with friend via Discord
+ZCZC W01 15 L00 General Log
+ZCZC W01 45 L11 Assignment 1
+ZCZC W01 60 L04 GitHub Pages: Modify pages
+ZCZC W01 20 L08 Trying something: Setting up git page
+ZCZC W02 5 L03 GitHub related
+ZCZC W02 70 L21 VirtualBox: Reinstall and messing around.
+ZCZC W02 70 L12 Assignment #2
+ZCZC W02 40 L25 C-language: install C compiler (MinGW) and learn basics
+ZCZC W02 15 L23 Line: Discussion and asking friends.
+ZCZC W02 60 L22 YouTube: study, etc.
+ZCZC W02 40 L06 Reading Slides and Reading About System Security
+ZCZC W02 5 L00 General Log
+ZCZC W02 60 L26 Movie: relax, etc.
+
+
