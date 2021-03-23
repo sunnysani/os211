@@ -24,5 +24,8 @@ ZCZC W02 60 L22 YouTube: study, etc.
 ZCZC W02 40 L06 Reading Slides and Reading About System Security
 ZCZC W02 5 L00 General Log
 ZCZC W02 60 L26 Movie: relax, etc.
-
-
+ZCZC W03 90 L02 ZOOM related
+ZCZC W03 45 L13 Assignment #3
+ZCZC W03 40 L06 Reading References/Books/Documents
+ZCZC W03 30 L22 YouTube: study, etc.
+ZCZC W03 5 L00 General Log
