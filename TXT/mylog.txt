@@ -37,3 +37,5 @@ ZCZC W04 30 L22 YouTube: study, etc.
 ZCZC W04 5 L00 General Log
 ZCZC W05 100 L15 Assignment #5
 ZCZC W05 90 L02 ZOOM related
+ZCZC W05 60 L06 Reading References/Books/Documents
+ZCZC W05 5 L00 General Log
