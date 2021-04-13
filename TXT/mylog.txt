@@ -39,3 +39,6 @@ ZCZC W05 100 L15 Assignment #5
 ZCZC W05 90 L02 ZOOM related
 ZCZC W05 60 L06 Reading References/Books/Documents
 ZCZC W05 5 L00 General Log
+ZCZC W06 90 L02 ZOOM Class
+ZCZC W06 5 L00 General Log
+ZCZC W06 30 L16 Assignment #6
