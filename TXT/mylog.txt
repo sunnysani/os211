@@ -43,3 +43,6 @@ ZCZC W06 90 L02 ZOOM Class
 ZCZC W06 5 L00 General Log
 ZCZC W06 30 L16 Assignment #6
 ZCZC W06 90 L06 Reading References/Books/Documents
+ZCZC W07 120 L17 Assignment #7 with bugs
+ZCZC W07 5 L00 General Log
+ZCZC W07 90 L02 ZOOM Class
