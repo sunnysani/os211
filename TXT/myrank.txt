@@ -14,3 +14,6 @@ ZCZC W04 VadimBhirawa
 ZCZC W05 tarameccaluna
 ZCZC W05 trigonometr1
 ZCZC W05 veniche
+ZCZC W06 veniche
+ZCZC W06 vadimbhirawa
+ZCZC W06 x1non
