@@ -17,3 +17,6 @@ ZCZC W05 veniche
 ZCZC W06 veniche
 ZCZC W06 vadimbhirawa
 ZCZC W06 x1non
+ZCZC W07 trigonometr1
+ZCZC W07 tsanaativa
+ZCZC W07 vandhya

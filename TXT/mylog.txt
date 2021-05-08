@@ -47,3 +47,8 @@ ZCZC W07 120 L17 Assignment #7 with bugs
 ZCZC W07 5 L00 General Log
 ZCZC W07 90 L02 ZOOM Class
 ZCZC W07 90 L05 Reading References/Books/Documents
+ZCZC W08 5 L00 General Log
+ZCZC W08 100 L02 ZOOM Class
+ZCZC W08 30 L21 Install new Debian Linux VBox
+ZCZC W08 150 L18 Assignment #8 and trying stuff
+ZCZC W08 120 L05 Reading References/Books/Documents
