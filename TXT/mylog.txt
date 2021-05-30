@@ -56,3 +56,6 @@ ZCZC W09 5 L00 General Log
 ZCZC W09 100 L02 ZOOM Class
 ZCZC W09 300 L19 Assignment #9 and muchly retrying
 ZCZC W09 60 L05 Reading References/Books/Documents
+ZCZC W10 60 L02 ZOOM Class
+ZCZC W10 300 L20 Assignment #10
+ZCZC W10 5 L00 General Log
